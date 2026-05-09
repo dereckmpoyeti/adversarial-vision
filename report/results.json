@@ -1,0 +1,18 @@
+{
+  "fgsm": {
+    "attack": "FGSM",
+    "epsilon": 0.05,
+    "success": true,
+    "l2": 19.3977,
+    "linf": 0.05,
+    "ssim": 0.9373000264167786
+  },
+  "pgd": {
+    "attack": "PGD",
+    "epsilon": 0.05,
+    "success": true,
+    "l2": 13.653,
+    "linf": 0.05,
+    "ssim": 0.9718999862670898
+  }
+}

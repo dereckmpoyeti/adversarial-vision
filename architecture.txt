@@ -1,0 +1,18 @@
+adversarial-vision/
+|-- -p/
+|-- .venv/
+|   `-- Environnement virtuel Python
+|-- attacks/
+|   |-- __init__.py
+|   |-- fgsm.py
+|   `-- pgd.py
+|-- defenses/
+|-- demo/
+|   `-- run_fgsm.py
+|-- evaluation/
+|-- models/
+|   `-- target_model.py
+|-- report/
+|-- architecture.txt
+|-- images.jpg
+`-- requirements.txt
