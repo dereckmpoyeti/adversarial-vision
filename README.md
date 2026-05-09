@@ -115,4 +115,4 @@ Il génère aussi des visualisations dans le dossier `demo/`.
 
 ## Auteur
 
-Projet réalisé par Dereck Mpoyeti.
+Projet réalisé par Déreck M'PO YETI.
